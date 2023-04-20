@@ -1,0 +1,6 @@
+html,
+body {
+  /* adicionado vírgula na hora de colocar o nome do elemento todas 
+    as propriedades serão aplicadas */
+  background-color: #f2f4f5;
+}

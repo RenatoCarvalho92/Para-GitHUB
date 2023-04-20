@@ -1,22 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
 
-<body>
-    <h1>
-        Teste1
-    </h1>
-    <h2>
-        Frase1
-    </h2>
-    <!--manter o grau de hieraqui com a tags , por causa da semantica -->
-    <!-- como definrir o grau de semantica?Talvez estudar as proprias tags? -->
-</body>
+    <style>
+      .txt-azul {
+        font-size: x-large;
+        color: red;
+      }
 
+      .box {
+        background-color: darkcyan;
+        border: 1px solid;
+        padding: 10px;
+        box-shadow: 5px 10px;
+      }
+    </style>
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+
+  <body>
+    <div class="box">
+      <h1>Teste1</h1>
+      <h2>Frase1</h2>
+      <!--manter o grau de hieraqui com a tags , por causa da semantica -->
+      <!-- como definrir o grau de semantica?Talvez estudar as proprias tags? -->
+      <h3
+        style="
+          color: blue;
+          font-size: 64px;
+          font-family: Arial, Helvetica, sans-serif;
+        "
+      >
+        Css começo
+      </h3>
+      <h4 class="txt-azul">Css Pratica</h4>
+    </div>
+
+    <div class="segunda-div">
+      <p>Segunda lição de CSS</p>
+      <p id="p-modificado">Focando em css em arquivo externo</p>
+      <!-- podemos usar css em arquivo externo é util quando o programa a grande -->
+    </div>
+
+    <div class="div-text-css-green"></div>
+    <div class="div-text-css-blue"></div>
+    <div class="div-text-css-red"></div>
+    <!-- Para aprender um pouco sobre cores no css -->
+  </body>
 </html>
