@@ -1,0 +1,240 @@
+-----------------------------------------
+Seção 2 :Introdução ao HTML e CSS
+
+Front End Design
+
+Estágios de front-end
+
+Desing de Interface
+ fazer o desing do site basicamente
+	deixar tudo em grafico
+
+MARCAÇÃO DE BLOCOS E TEXTO
+Fazer a estrutura do site
+marcar os texto
+
+CSS
+- definir os grid 
+cores  
+formatar o site na parte grafica
+
+
+Javascritp
+fazer interações com javascritp
+
+Manipular o codgo para ter ações
+como em um jogo onde para cada intereção
+tem algo em retorno
+
+
+
+Definição de Html
+
+Hypertext Markup Languase
+Tim bverners-Lee
+ liguangem de hipermacção de texto
+
+é um bloco de notas que tem palavras
+marcada para onde ao cliclar 
+você consegue nevegar para o proxima pagina
+
+W3C é orgão que que regula as regras
+para naveção da intenet
+
+bom site para consulta de html
+https://www.w3schools.com/html/
+
+
+Como se faz html
+
+
+como é a estrutrua de um documento HTML
+
+Camadas? Preciso pensar em forma de blocos
+como um bloco dentro do outro
+sendo que ele abre e fecha
+
+<html> (lembrar de tag)
+	<a>
+	Texto texto texto	
+	</a>
+
+</html>
+
+
+<html> sempre abrenge todas outras tag
+<head> especificações tecnicas para o navegador
+<body> é onde tudo acontecne
+
+
+<!DOCTYPE html> para o navegador saber
+que é um documento em html
+
+indetação sever para melhorar a visualição 
+do codigo
+
+lembrar que as tags tem conveções proprias
+nada no codigo em si não permite 
+fazer  isso mas é usado uma semantica
+do proprio html 
+
+a semantica também ajudar o navegador a decidir o 
+que é mais importante na hierarquia
+
+
+
+lembrar de confirguar o pretire
+
+
+tag são o que usamos para marcar estrutura 
+do html
+
+<div> tag para abrir um bloco
+</div> fecha o bloco da tag 
+
+sintaxe neste caso é 
+escrever
+a tag e depois o conteundo e fechar a tag
+
+<div> exemplo</div>
+
+lembrar que cada
+tag tem um função é mais ´pelo causa
+da semantica
+
+quando for adicionar algum elemento
+dentro do html
+procurar uma que seja adequada
+para o layout
+
+ajuda na hora dos navegadores
+para ajudar a localizar
+assim como os sistes de busca
+
+https://www.w3schools.com/tags/default.asp
+
+exemplos de todas as tag do html
+
+é preciso ver quais são as hierquias
+de tag
+
+CSS
+
+cascadin style sheets
+é um iguagem de estilos para deixar 
+mais agradavel basicamente
+agente pode mudar tudo na parte 
+do estilo do html
+
+é parte de designe da pagina
+
+css3 tem elementos tridimencional 
+e de transição
+
+media querys são a parte que usamos 
+para media responsiva em diferentes
+aparelhos
+
+
+
+Como escrever
+
+devemos selionar o elementos do html
+depois { adicionamos propriedad: e o valor dessa mesma propriedade}
+
+h1{color:#ff9900} // exemplo
+
+lembrar tudo relacionado a deixar
+o html mais bonito e legivel 
+é o que o css influencia 
+
+classes e ID são que usamos
+para selecionar o que queremos mudar
+dentro do html
+
+
+
+O que são clases?
+ São atributos que damos para um tag html
+assim podemos colocara atributos do css
+para estilizalos
+
+ Exemplo:
+<h1 class ="text-preto"> Titulo da pagina </h1>
+
+
+as tres maneira de colocar estilo na proripa linha
+no documento html e em um documento proprio para css
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

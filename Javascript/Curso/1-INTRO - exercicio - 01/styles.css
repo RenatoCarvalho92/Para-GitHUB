@@ -3,4 +3,69 @@ body {
   /* adicionado vírgula na hora de colocar o nome do elemento todas 
     as propriedades serão aplicadas */
   background-color: #f2f4f5;
+  margin: 0px;
+}
+
+header {
+  width: 100%;
+  height: 60px;
+  margin: 0px;
+  background-color: blueviolet;
+  display: block;
+  box-shadow: 4px 30px 50px black;
+}
+
+main {
+  width: 1200px;
+  height: auto;
+  background-color: white;
+  display: table;
+  border-radius: 8px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 4px 30px 50px black;
+}
+
+.box-container {
+  width: 300px;
+
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  display: table;
+  float: left;
+}
+
+
+
+
+.box {
+
+  width: 100%;
+  height: 200px;
+  display: block;
+  background-color: greenyellow;
+  border-radius: 15px;
+  border: 4px solid violet;
+  box-sizing: border-box;
+}
+
+.btn {
+  width: 300px;
+  height: 50px;
+  display: block;
+  margin-top: 25px;
+  background-color: blueviolet;
+  border-radius: 50px;
+  float: left;
+  border: 4px solid violet;
+  margin-left: 25px;
+}
+
+.clearfix {
+  width: 100%;
+  height: 1px;
+  display: block;
+  clear: both;
 }

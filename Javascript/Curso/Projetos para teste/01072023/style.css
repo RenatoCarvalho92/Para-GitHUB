@@ -1,0 +1,13 @@
+.txt-vermelho {
+    color: red;
+}
+
+.box {
+    width: 100px;
+    height: 300px;
+    display: table;
+    text-align: center;
+    margin: 4px auto;
+    background-color: aquamarine;
+    box-shadow: 5px, 5px 12px;
+}
