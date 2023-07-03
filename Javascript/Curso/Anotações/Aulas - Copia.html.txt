@@ -1,4 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Todas as lições java </title>
+</head>
 
+
+  <body>
 -----------------------------------------
 Seção 2 :Introdução ao HTML e CSS
 
@@ -171,86 +182,28 @@ em arquvio separo style.css é o geralmente o nome de
 conveção 
 
 podemos colocar as tags diretas dentro da folha de cascata
-mas ira afetar todas que são iguais 
 
-
-a tag <link> é uma self-close tag , sendo que só precisamos abrir
-ele serve para conectar dois link ,as
-
-ao se usar esse padrão podemos colocar uma folha para estilizar 
-o html
-
-exemplo:
-<link rel="stylesheet" type="text/css" href="style.css">
-
-classes> do que o elemento cru e o resto é sempre cascata
-
-Tipografia na WEB
-
-Web Safe Fonts
-tem fontes que os navegadores que são nativas deles mesmo
-e é sempre bom ter elas em mente
-
-
-    Arial (sans-serif)
-    Verdana (sans-serif)
-    Tahoma (sans-serif)
-    Trebuchet MS (sans-serif)
-    Times New Roman (serif)
-    Georgia (serif)
-    Garamond (serif)
-    Courier New (monospace)
-    Brush Script MT (cursive)
-
-Web fonts
-são fontes diferentes mas que não estão instaladas no pc
-do usuario , alguns navegadores podem baixar essas fontes
-diferentes , com link e armazenado de alguma forma no 
-proprio navegador do usuario
-
-são exemplos de sistes que tem fonts
-Google fonts
-adobe edge fonts
-typekit
-fontsquirriel
-fontpair é bom para parear fontes que combiman 
-
-guiar o projeto deste do começo pensando na fonte em que utilizar
-pode ser facilitar na hora de usar o google fonts
-
-Cores na WEB
-
-Formato RGB , geradas em com pontos do luz no formado
-(255,255,255) essa é totalmente branco
-e  rgb(0,0,0) seria o preto total
-
-existe também o rgba sendo o a como transprarente
-
-
-também tem formato em Hexadecimal 
-{color:#64DD89}
-
-
-é só um maneira de escrever a mesma coisa 
-hexadecimal simplificado 
-{color:#66cc99} 
-agluns navegadores ou monitores mais antigos
-podem não conseguir mostrar toos os aspectos de
-cores
-
-
-também podemos trabalhar com cores de nomes
-exemplo {color:orange;}
- tem alguns nomes oficias que podem ser utilizados
-mas pelo menos o vs code é só digitar que aparece
-tem um tabela na internet
-
-Sket Up
+a tag <link> 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
 
 
 

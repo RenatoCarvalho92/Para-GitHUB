@@ -11,3 +11,38 @@
     background-color: aquamarine;
     box-shadow: 5px, 5px 12px;
 }
+
+
+.txt-azul {
+    color: #6a1;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-family: 'Caveat', cursive, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 124;
+    color: darkblue;
+    background-color: chocolate;
+}
+
+.box-orange {
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: orange;
+}
+
+.box-red {
+    width: 300px;
+    height: 300px;
+    float: right;
+    background-color: #f00;
+}
+
+.box-blue {
+    width: 300px;
+    height: 300px;
+    float: right;
+    background-color: rgb(27, 12, 236);
+}
