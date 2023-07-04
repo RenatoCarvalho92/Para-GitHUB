@@ -1,4 +1,4 @@
-
+SER 
 -----------------------------------------
 Seção 2 :Introdução ao HTML e CSS
 
@@ -248,7 +248,20 @@ tem um tabela na internet
 Sket Up
 
 
+Desing Patterns Javascript 
+-Atomic Desing 
+ Methologica por brad frots
 
+Atomos > moleculas > tamplates > organimos > paginas
+
+sites 
+https://atomicdesign.bradfrost.com/
+
+https://bradfrost.com/blog/post/atomic-web-design/
+
+Basicmanete é uma forma de pensar na hora de fazer
+o design de seu site começando com sua menores partes
+e ao juntar ter torna algo maior
 
 
 
