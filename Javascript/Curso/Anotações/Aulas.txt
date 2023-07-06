@@ -263,8 +263,12 @@ Basicmanete é uma forma de pensar na hora de fazer
 o design de seu site começando com sua menores partes
 e ao juntar ter torna algo maior
 
+CSS selectors
+https://www.w3schools.com/cssref/css_selectors.php
 
-
+são maneira de você ao usar o css slecionar ao especifico
+class e id já usava normalmente mas tem varios
+outros que eu não sabia 
 
 
 
