@@ -38,6 +38,16 @@ main {
     /* dessa forma a imagem acomponha a variação da tela em que ela está */
 }
 
+.card .card-image-top {
+    margin-top: -55px;
+}
+
+/* .card .card-image-top {
+    position: relative;
+    top: -55px;
+    margin-bottom: -55px;
+} */
+
 .card .card-body {
     width: 100%;
     display: table;
@@ -55,6 +65,17 @@ main {
     margin: 0px;
 
     text-align: center;
+}
+
+.card-container .card p {
+    display: table;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    line-height: 16px;
+    color: gray;
+    font-weight: 500;
+    margin: 12px 0 10px 0;
+
 }
 
 .card-container .card .button {

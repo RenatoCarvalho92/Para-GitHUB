@@ -272,18 +272,62 @@ outros que eu não sabia
 
 
 
+CSS - tipo de Layout web
+Layouts Web é um estrutura e forma
+de apresnetar o site e facilitar 
+e forma que o usuario interrage
+com o mesmo
+
+Tipos de Layouts
+
+Fixo - possui tudo fixo na tela , sem mudar nada
+ou seja não responsivo
+
+Fluido - usa porcentagem nos elementos para que
+quando o navegador muda de tamanho os mesmo
+também o fazem
+
+responvivo - bascimante os elementos se realocam
+e mudam de tamanho sempre considerando o tamanho 
+da tela .
 
 
+Oraganico - é mais um estilo , elmentos não 
+estrutura de forma de grid mas 
+sim bastante fluido 
+
+Material - conceito e estilo estático
+é algo em 3d pelo menos um tentativa
+basica de deixar mais interragivel
 
 
+Designr Responvivo
+CSS - reponsivo 
+
+Media Queries
+Pemite usar 
 
 
+Falyout Responsivo
+
+Meida Queries
+contrala a responsividade 
+para um media especifica
+basicamente é um if
+se a tela tiver
+ um tamho especifico
+ou for menor os arranjos do css mudam
+ 
 
 
+modulo 
 
+@media only screen (min-width : 554px ){
+	aqui vai o css
+}
 
-
-
+e existe media print que é 
+para formatos de impressão
 
 
 
