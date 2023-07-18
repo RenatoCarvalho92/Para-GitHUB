@@ -330,8 +330,56 @@ e existe media print que é
 para formatos de impressão
 
 
+Media Queries 
+heardam proprieades de elementos 
+acimda delas 
+ou seja eu não preciso mudar tudo
+para conseguir mudar o que é preciso
+em um resolução especifica
 
 
+Sistema de grid
+Bootstrap tem um sistema de frid
+foudation
+materialize
+
+existem varias sistema de grid
+que fazem parte de geralmente
+de uma biblotecas (framework)
+
+https://caniuse.com/?search=flexbox
+site é para saber que elementos
+css não são compativeis com 
+outros navegadores
+
+Estruturação de layouts de pagina 
+web
+
+Divisão de grid em colunas 
+12 colunas 
+dependendo do tamanho da tela
+a div pode ocupar mais de uma
+coluna ou menos colunas 
+
+para uma div se coloca mutiplas
+classes e quando ela
+chega no tamnaho da tela o div
+se modifica 
+
+bootstrap usa de uma sitaxe
+especifica na classe 
+da div para definir um break-point
+assim como no mediqueies
+para asbaer quando a div tem que 
+mudar 
+
+Breakpoint 		Class infix 	Dimensions
+Extra small 		None 		<576px
+Small 			sm 		≥576px
+Medium 			md 		≥768px
+Large 			lg 		≥992px
+Extra large 		xl 		≥1200px
+Extra extra large 	xxl 		≥1400px
 
 
 
