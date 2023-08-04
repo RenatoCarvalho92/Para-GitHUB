@@ -347,7 +347,7 @@ existem varias sistema de grid
 que fazem parte de geralmente
 de uma biblotecas (framework)
 
-https://caniuse.com/?search=flexbox
+https://caniuse.com/?search=flexbox -----------------------------------------site para saber se algo pode usar em navegador especifico
 site é para saber que elementos
 css não são compativeis com 
 outros navegadores
@@ -380,9 +380,38 @@ Medium 			md 		≥768px
 Large 			lg 		≥992px
 Extra large 		xl 		≥1200px
 Extra extra large 	xxl 		≥1400px
+-------------------------------------------------------------
+bootstrap
 
+tenho que fazer download no site do bootstrap 
+Compiled CSS and JS
+depois de baixar posso acessar o grid system
+dentro da pasta compactada
+depois colcoar ela na pasta do css
+c e fazer o link na pagina html principal
+da mesma forma que se faz com css
 
+para que o bootstraap tenho  possa ser
+ultilizado é precio colocar um classe
+container na div 
 
+e container-fluid faz com que a div pegue a tela toda
+
+para que ative o bootstrap é preciso ter um div
+para encapisular as outras com a classe row 
+
+-------------------------------------------------------------
+Display Flex
+pemite flexibilidade no organização do layout dos site
+usando um div como container usar flexbox da controle 
+para de todos os filhos dentro do container
+ permiindo que controlemos o tamnho posiomento
+tanto no eixo x e y dos filho no container 
+
+parecido como posimos os texto dentro das div
+
+um guia basico
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background
 
 
 
